@@ -1,4 +1,4 @@
-# importando as bibliotecas
+# importando as bibliotecas da first
 
 import wpilib
 import wpilib.drive
